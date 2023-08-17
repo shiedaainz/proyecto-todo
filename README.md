@@ -4,8 +4,6 @@
 
 La rama principal contiene el código con del deploy de mi checklist y finalmente el deploy de la aplicación (https://shiedaainz.github.io/proyecto-todo).
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
